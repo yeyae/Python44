@@ -13,3 +13,7 @@ print(b)
 
 #lambda
 #def를 사용할 정도로 복잡하지 않거나 def를 사용할 수 없는 곳에 주로 쓰임
+
+add = lambda a, b: a+b
+result = add(3, 4)
+print(result)
