@@ -22,3 +22,5 @@ def add(a, b):
        return a+b
 result = add(3, 4)
 print(result)
+
+#lambda함수와 def를 사용한 함수가 일치함
